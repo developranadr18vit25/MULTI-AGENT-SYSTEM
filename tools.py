@@ -46,4 +46,4 @@ def scrape_url(url:str)->str:
 response=scrape_url.invoke("https://quotes.toscrape.com")
 
 # response=web_search.invoke("What are the recent news of war")
-print(response)
+# print(response)
